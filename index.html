@@ -22,7 +22,7 @@ title: Home
       </ul>
     </div>
     <div class="hero-headshot">
-      <img src="{ '/assets/images/headshot.jpg'}" alt="{{ site.data.profile.name }} headshot">
+      <img src="{{ '/assets/images/headshot.jpg' | relative_url }}" alt="{{ site.data.profile.name }} headshot">
     </div>
   </div>
 </section>
@@ -69,7 +69,9 @@ title: Home
           </ul>
 
           <div class="project-links">
-            <a class="button project-cta" href="{{ project.repo_url }}">GitHub</a>
+            {% if project.repo_url and project.repo_url != "#" %}
+              <a class="button project-cta" href="{{ project.repo_url }}" target="_blank" rel="noopener">GitHub</a>
+            {% endif %}
 
             {% if project.demo_url and project.demo_url != "#" %}
               <a class="button" href="{{ project.demo_url }}" target="_blank" rel="noopener">Videos</a>
