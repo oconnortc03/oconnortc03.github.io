@@ -11,7 +11,7 @@
   repo_url: "#"
   demo_url: "#"
   detail_url: "#"
-  image: "#"
+  image: "/assets/images/midstream.jpg"
   placeholder: "#"
 
 - title: RTX Autonomous Vehicle Challenge
@@ -43,5 +43,5 @@
   repo_url: "https://github.com/gwsystems/composite/pull/501"
   demo_url: "#"
   detail_url: "#"
-  image: "#"
+  image: "/assets/images/OS_Hpet.png"
   placeholder: "#"
