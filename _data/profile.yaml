@@ -1,0 +1,14 @@
+name: Cathal O'Connor
+#eyebrow: Engineering student
+tagline: 5th Year BS MS Student at the George Washington University
+resume_url: "#"
+about: >-
+  I am passionate about ...
+
+contact_blurb: >-
+  I enjoy projects that combine hardware and software.
+links:
+  - label: GitHub
+    url: https://github.com/oconnortc03
+  - label: LinkedIn
+    url: https://www.linkedin.com/in/cathal-o-connor-oc03/
