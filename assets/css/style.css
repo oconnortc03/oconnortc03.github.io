@@ -134,7 +134,7 @@ h1 {
   margin: 0;
 }
 
-.hero-me {
+.hero-headshot {
   flex: 0 0 clamp(210px, 28vw, 300px);
   width: clamp(210px, 28vw, 300px);
   aspect-ratio: 1;
@@ -146,7 +146,7 @@ h1 {
   margin-left: auto;
 }
 
-.hero-me img {
+.hero-headshot img {
   width: 100%;
   height: 100%;
   object-fit: cover;

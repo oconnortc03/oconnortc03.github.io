@@ -5,10 +5,8 @@
     and predictive modeling, and developed simulations for AI/ML model testing and monitoring tools
     for upstream energy production optimization.
   tags:
-    - Pyhton
+    - Python
     - postgreSQL
-    - ETL
-    - AI/ML
 
   repo_url: "#"
   demo_url: "#"
@@ -23,7 +21,7 @@
     unmanned aerial vehicle to complete various tasks.
   tags:
     - C++
-    - Pyhton
+    - Python
     - ROS 2
 
   repo_url: "https://github.com/GW-CS-SD-25-26/senior-design-jnc"
