@@ -70,6 +70,12 @@ title: Home
 
           <div class="project-links">
             <a class="button project-cta" href="{{ project.repo_url }}">GitHub</a>
+            <div class="project-links">
+            <a class="button project-cta" href="{{ project.repo_url }}">GitHub</a>
+
+            {% if project.demo_url and project.demo_url != "#" %}
+              <a class="button" href="{{ project.demo_url }}" target="_blank" rel="noopener">Videos</a>
+            {% endif %}
           </div>
         </div>
       </article>
