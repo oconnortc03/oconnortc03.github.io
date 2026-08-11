@@ -1,9 +1,8 @@
 - title: Ayata Internship
   type: Data Engineering
-  description: >-
-    Built ETL pipelines to process midstream pipeline data for network analysis
-    and predictive modeling. \nDeveloped simulations for AI/ML model testing and monitoring tools
-    for upstream energy production optimization.
+  description: |-
+    Built ETL pipelines to process midstream pipeline data for network analysis and predictive modeling. 
+    Developed simulations for AI/ML model testing and monitoring tools for upstream energy production optimization.
   tags:
     - Python
     - postgreSQL
