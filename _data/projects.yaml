@@ -2,7 +2,7 @@
   type: Data Engineering
   description: >-
     Built ETL pipelines to process midstream pipeline data for network analysis
-    and predictive modeling, and developed simulations for AI/ML model testing and monitoring tools
+    and predictive modeling. \nDeveloped simulations for AI/ML model testing and monitoring tools
     for upstream energy production optimization.
   tags:
     - Python
@@ -18,14 +18,14 @@
 - title: RTX Autonomous Vehicle Challenge
   type: Robotics
   description: >-
-    The 2026 RTX Autonomous Vehicle Challenge has teams build an unmanned ground vehicle and 
+    The 2026 RTX Autonomous Vehicle Challenge had teams build an unmanned ground vehicle and 
     unmanned aerial vehicle to complete various tasks.
   tags:
     - C++
     - Python
     - ROS 2
 
-  repo_url: "https://github.com/GW-CS-SD-25-26/senior-design-jnc"
+  repo_url: "#"
   demo_url: "https://youtube.com/playlist?list=PLRv1uDMdTmD8&si=PYzM4L8wNPeGqBW2"
   detail_url: "#"
   image: "/assets/images/RTX_AVC.jpg"
@@ -35,7 +35,7 @@
   type: Operating Systems
   description: >-
     Integrat HPET (High Precision Event Timer) and I/O APIC support into the kernel for 
-    timer management and interrupt routing
+    timer management and interrupt routing.
   tags:
     - C
     - Inline Assembly
