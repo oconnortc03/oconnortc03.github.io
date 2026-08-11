@@ -7,6 +7,7 @@
   tags:
     - Python
     - postgreSQL
+    - Databases
 
   repo_url: "#"
   demo_url: "#"
@@ -37,7 +38,6 @@
     timer management and interrupt routing
   tags:
     - C
-    - Hardware
     - Inline Assembly
 
   repo_url: "https://github.com/gwsystems/composite/pull/501"
