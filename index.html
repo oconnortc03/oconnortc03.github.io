@@ -12,7 +12,7 @@ title: Home
 
       <div class="hero-links">
         <a class="button primary" href="#projects">View projects</a>
-        <!--<a class="button" href="{{ site.data.profile.resume_url }}">Resume</a>-->
+        <a class="button" href="{{ site.data.profile.resume_url }}" target="_blank" rel="noopener">Resume</a>
       </div>
 
       <ul class="social-list">
@@ -82,17 +82,3 @@ title: Home
     {% endfor %}
   </div>
 </section>
-
-{% comment %}
-<section class="section" id="contact">
-  <div class="section-heading">
-    <h2>Contact</h2>
-    <p class="section-kicker">Open to internships, entry-level roles, and collaborative builds.</p>
-  </div>
-
-  <div class="contact-card">
-    <p>{{ site.data.profile.contact_blurb }}</p>
-    <a class="button primary" href="mailto:{{ site.email }}">Email me</a>
-  </div>
-</section>
-{% endcomment %}
