@@ -10,7 +10,7 @@
 
   repo_url: "#"
   demo_url: "#"
-  detail_url: "/projects/rube-goldberg-machine/"
+  detail_url: "#"
   image: "#"
   placeholder: "#"
 
@@ -25,9 +25,9 @@
     - ROS 2
 
   repo_url: "https://github.com/GW-CS-SD-25-26/senior-design-jnc"
-  demo_url: "#"
+  demo_url: "https://youtube.com/playlist?list=PLRv1uDMdTmD8&si=PYzM4L8wNPeGqBW2"
   detail_url: "#"
-  image: "#"
+  image: "/assets/images/RTX_AVC.jpg"
   placeholder: "#"
 
 - title: Composite Operating System Research
