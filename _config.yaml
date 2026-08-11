@@ -1,0 +1,18 @@
+title: Cathal O'Connor
+email: oconnortc03@gmail.com
+description: >-
+  portfolio.
+baseurl: ""
+url: "https://oconnortc03.github.io"
+markdown: kramdown
+permalink: pretty
+
+collections:
+  projects:
+    output: false
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
