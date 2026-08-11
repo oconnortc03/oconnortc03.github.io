@@ -1,0 +1,49 @@
+- title: Ayata Internship
+  type: Data Engineering
+  description: >-
+    Built ETL pipelines to process midstream pipeline data for network analysis
+    and predictive modeling, and developed simulations for AI/ML model testing and monitoring tools
+    for upstream energy production optimization.
+  tags:
+    - Pyhton
+    - postgreSQL
+    - ETL
+    - AI/ML
+
+  repo_url: "#"
+  demo_url: "#"
+  detail_url: "/projects/rube-goldberg-machine/"
+  image: "#"
+  placeholder: "#"
+
+- title: RTX Autonomous Vehicle Challenge
+  type: Robotics
+  description: >-
+    The 2026 RTX Autonomous Vehicle Challenge has teams build an unmanned ground vehicle and 
+    unmanned aerial vehicle to complete various tasks.
+  tags:
+    - C++
+    - Pyhton
+    - ROS 2
+
+  repo_url: "https://github.com/GW-CS-SD-25-26/senior-design-jnc"
+  demo_url: "#"
+  detail_url: "#"
+  image: "#"
+  placeholder: "#"
+
+- title: Composite Operating System Research
+  type: Operating Systems
+  description: >-
+    Integrat HPET (High Precision Event Timer) and I/O APIC support into the kernel for 
+    timer management and interrupt routing
+  tags:
+    - C
+    - Hardware
+    - Inline Assembly
+
+  repo_url: "https://github.com/gwsystems/composite/pull/501"
+  demo_url: "#"
+  detail_url: "#"
+  image: "#"
+  placeholder: "#"
